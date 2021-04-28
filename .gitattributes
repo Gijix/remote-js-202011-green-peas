@@ -2,4 +2,4 @@
 * .html linguist-vendored=false
 * .css linguist-vendored=false
 * linguist-language
-*.js linguist-language=html
+*.html linguist-language=js
